@@ -22,7 +22,7 @@ It uses multiple machine learning models and compares their performance.
    - Gradient Boosting
    - XGBoost
 4. Model Evaluation (RMSE & R² comparison)
-5. Hyperparameter Tuning (Random Forest example)
+5. Hyperparameter Tuning
 6. Feature Importance
 
 ## 📈 Results
